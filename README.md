@@ -74,20 +74,3 @@ A third-year BSIT student at La Salle University–Ozamiz passionate about build
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lsutagamajr&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsutagamajr&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lsutagamajr&theme=tokyonight&hide_border=true" />
-</p>
