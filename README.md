@@ -18,7 +18,7 @@ A third-year BSIT student at La Salle University–Ozamiz passionate about build
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Responsive Web Design and Relational Database**
+- 🌱 Currently learning **Responsive Web Design/Relational Databases/Backend Development**
 - 👯 Open to collaborate on **Web Development Projects**
 - 💻 Portfolio: **rhodelldev.vercel.app**
 - 📫 Reach me at: **tagamarhodelljunior@gmail.com**
