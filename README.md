@@ -13,28 +13,20 @@ A third-year BSIT student at La Salle University–Ozamiz passionate about build
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **Responsive Web Design**
+- 🌱 Currently learning **Responsive Web Design and Relational Database**
 - 👯 Open to collaborate on **Web Development Projects**
 - 💻 Portfolio: **https://rhodelldev.vercel.app**
 - 📫 Reach me at: **tagamarhodelljunior@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/rhodelltagamajr">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhodelltagamajr)
 
-  <a href="https://facebook.com/tagamarhodelljr">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
-  </a>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tagamarhodelljr)
 
-  <a href="https://instagram.com/deldoo0">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deldoo0)
 
 ---
 
